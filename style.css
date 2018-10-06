@@ -1,0 +1,19 @@
+p{
+	color:Gainsboro;
+	text-align: center;
+}
+h1{
+	color: black;
+	font-family: "Lucida Console", Monaco, monospace;
+	text-align: center;
+}
+html{
+	background: url("http://i67.tinypic.com/2nk724l.jpg") center center fixed;
+	background-repeat: no-repeat;
+	position: relative;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
