@@ -1,0 +1,11 @@
+body{
+	background-color: rgba(234, 165, 153, 0.7);
+}
+img {
+	width: 35%;
+	float: left;
+	padding-right: 40px;
+}
+title{
+	display: inline-block;
+}
