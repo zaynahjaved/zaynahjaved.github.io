@@ -9,3 +9,18 @@ img {
 title{
 	display: inline-block;
 }
+p{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+button{
+	background-color: rgba(136, 207, 230, 0.64);
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 20px;
+	border: none;
+	padding: 14px 40px;
+	transition: 0.6s;
+	width: auto;
+}
+button:hover{
+	opacity: 0.6;
+}
